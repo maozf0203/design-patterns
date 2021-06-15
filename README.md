@@ -1,1 +1,2 @@
-# design-patterns
+# 设计模式
+用于设计模式学习
